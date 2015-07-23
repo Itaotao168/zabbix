@@ -1,2 +1,2 @@
 my zabbix project
-Creating a new branch is quich.
+Creating a new branch is quich And simple
