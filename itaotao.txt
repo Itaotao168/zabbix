@@ -4,10 +4,12 @@ test
 hahaha
 test fast-forware
 test fast forware2 2
-<<<<<<< HEAD
+test stash
+my name is dev
+from /tmp/test/ message!
+hahah good morning 
 hahaha2
 my name is issue-101
-=======
 test aaaa
 aaabbb
->>>>>>> feature1
+good morning2
