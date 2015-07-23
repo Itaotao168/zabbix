@@ -6,3 +6,4 @@ test fast-forware
 test fast forware2 2
 test stash
 my name is dev
+from /tmp/test/ message!
