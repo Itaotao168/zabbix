@@ -1,6 +1,2 @@
 my zabbix project
-<<<<<<< HEAD
 Creating a new branch is quich and simple.
-=======
-Creating a new branch is quich And simple
->>>>>>> feature1
