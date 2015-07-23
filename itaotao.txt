@@ -4,5 +4,10 @@ test
 hahaha
 test fast-forware
 test fast forware2 2
+<<<<<<< HEAD
 hahaha2
 my name is issue-101
+=======
+test aaaa
+aaabbb
+>>>>>>> feature1
